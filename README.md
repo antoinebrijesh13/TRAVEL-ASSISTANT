@@ -15,7 +15,7 @@ A Python-based travel assistant that helps users plan trips, gather information,
 - `VECTORDB.py`: Vector database management
 - `WEBCRAWLER.py`: Web crawling utilities
 - `travel_vectordb/`: Stores vector database files
-- `.env`: Environment variables (not tracked by git)
+
 
 ## Getting Started
 1. Clone the repository:
